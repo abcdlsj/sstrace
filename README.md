@@ -1,0 +1,2 @@
+# sstrace
+simple strace implementation
